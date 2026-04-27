@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Environment Variables (Keep private!)
+.env
+
+# Streamlit
+.streamlit/
+!/.streamlit/config.toml
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Project Data / Models
+# (If your models/data are too large for GitHub, uncomment these)
+# data/saved_data/*.csv
+# models/saved_models/*.h5
+# models/saved_models/*.pkl

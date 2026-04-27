@@ -1,0 +1,5 @@
+2026-04-27 01:33:43,735 - execution.broker - ERROR - Broker API Error: 401 - {"message": "unauthorized."}
+
+2026-04-27 01:33:44,544 - execution.broker - ERROR - Broker API Error: 401 - {"message": "unauthorized."}
+
+2026-04-27 04:42:09,945 - execution.broker - INFO - Placing buy order for 1 shares of AAPL...

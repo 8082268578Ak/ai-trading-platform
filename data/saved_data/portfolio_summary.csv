@@ -1,0 +1,7 @@
+Symbol,Price,Predicted_Price,Expected_Return_%,Sentiment,Signal,Confidence,Annualized_Risk,Risk_Category,Allocation_%
+AMZN,250.56,252.15,0.63,-0.95,BUY,0.6,0.3556,Medium,100.0
+AAPL,270.23,264.21,-2.23,0.67,HOLD,0.2,0.3151,Medium,0.0
+MSFT,422.79,403.51,-4.56,0.66,HOLD,0.2,0.2972,Medium,0.0
+NVDA,201.68,193.49,-4.06,0.27,HOLD,0.2,0.5248,High,0.0
+TSLA,400.62,383.14,-4.36,-0.1,HOLD,0.0,0.6556,High,0.0
+GOOGL,341.68,310.49,-9.13,0.08,HOLD,0.0,0.3223,Medium,0.0

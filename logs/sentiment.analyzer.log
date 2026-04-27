@@ -1,0 +1,72 @@
+2026-04-21 04:06:14,029 - sentiment.analyzer - INFO - Loading FinBERT pipeline (this may take a moment)...
+2026-04-21 04:06:53,140 - sentiment.analyzer - INFO - FinBERT loaded.
+2026-04-21 04:06:53,146 - sentiment.analyzer - WARNING - No NEWS_API_KEY found. Using mock news data for demonstration.
+2026-04-21 04:07:07,722 - sentiment.analyzer - INFO - Computed daily sentiment for 365 days.
+2026-04-21 04:07:07,735 - sentiment.analyzer - INFO - Saved sentiment data to /Users/amitkumar/Downloads/ai-trading-platform/data/saved_data/AAPL_sentiment.csv
+2026-04-21 04:21:39,910 - sentiment.analyzer - INFO - Loading FinBERT pipeline (this may take a moment)...
+2026-04-21 04:21:42,414 - sentiment.analyzer - INFO - FinBERT loaded.
+2026-04-21 04:21:42,415 - sentiment.analyzer - WARNING - No NEWS_API_KEY found. Using mock news data for demonstration.
+2026-04-21 04:21:54,365 - sentiment.analyzer - INFO - Computed daily sentiment for 365 days.
+2026-04-21 04:21:54,369 - sentiment.analyzer - INFO - Saved sentiment data to /Users/amitkumar/Downloads/ai-trading-platform/data/saved_data/AAPL_sentiment.csv
+2026-04-21 04:34:29,614 - sentiment.analyzer - INFO - Loading FinBERT pipeline (this may take a moment)...
+2026-04-21 04:34:30,143 - sentiment.analyzer - INFO - Loading FinBERT pipeline (this may take a moment)...
+2026-04-21 04:34:30,921 - sentiment.analyzer - INFO - Loading FinBERT pipeline (this may take a moment)...
+2026-04-21 04:34:33,467 - sentiment.analyzer - INFO - FinBERT loaded.
+2026-04-21 04:34:33,468 - sentiment.analyzer - INFO - FinBERT loaded.
+2026-04-21 04:34:33,672 - sentiment.analyzer - WARNING - No NEWS_API_KEY found. Using mock news data for demonstration.
+2026-04-21 04:34:33,774 - sentiment.analyzer - WARNING - No NEWS_API_KEY found. Using mock news data for demonstration.
+2026-04-21 04:34:33,885 - sentiment.analyzer - INFO - Loading FinBERT pipeline (this may take a moment)...
+2026-04-21 04:34:34,061 - sentiment.analyzer - INFO - Loading FinBERT pipeline (this may take a moment)...
+2026-04-21 04:34:34,338 - sentiment.analyzer - INFO - Loading FinBERT pipeline (this may take a moment)...
+2026-04-21 04:34:35,549 - sentiment.analyzer - INFO - FinBERT loaded.
+2026-04-21 04:34:35,556 - sentiment.analyzer - WARNING - No NEWS_API_KEY found. Using mock news data for demonstration.
+2026-04-21 04:38:45,403 - sentiment.analyzer - INFO - Loading FinBERT pipeline (this may take a moment)...
+2026-04-21 04:38:47,673 - sentiment.analyzer - INFO - FinBERT loaded.
+2026-04-21 04:38:47,737 - sentiment.analyzer - WARNING - No NEWS_API_KEY found. Using mock news data for demonstration.
+2026-04-21 04:38:59,646 - sentiment.analyzer - INFO - Computed daily sentiment for 365 days.
+2026-04-21 04:38:59,651 - sentiment.analyzer - INFO - Saved sentiment data to /Users/amitkumar/Downloads/ai-trading-platform/data/saved_data/AAPL_sentiment.csv
+2026-04-21 04:39:10,024 - sentiment.analyzer - INFO - Loading FinBERT pipeline (this may take a moment)...
+2026-04-21 04:39:12,250 - sentiment.analyzer - INFO - FinBERT loaded.
+2026-04-21 04:39:12,250 - sentiment.analyzer - WARNING - No NEWS_API_KEY found. Using mock news data for demonstration.
+2026-04-21 04:39:22,726 - sentiment.analyzer - INFO - Computed daily sentiment for 365 days.
+2026-04-21 04:39:22,731 - sentiment.analyzer - INFO - Saved sentiment data to /Users/amitkumar/Downloads/ai-trading-platform/data/saved_data/TSLA_sentiment.csv
+2026-04-21 04:39:33,635 - sentiment.analyzer - INFO - Loading FinBERT pipeline (this may take a moment)...
+2026-04-21 04:39:35,994 - sentiment.analyzer - INFO - FinBERT loaded.
+2026-04-21 04:39:35,995 - sentiment.analyzer - WARNING - No NEWS_API_KEY found. Using mock news data for demonstration.
+2026-04-21 04:39:46,752 - sentiment.analyzer - INFO - Computed daily sentiment for 365 days.
+2026-04-21 04:39:46,755 - sentiment.analyzer - INFO - Saved sentiment data to /Users/amitkumar/Downloads/ai-trading-platform/data/saved_data/GOOGL_sentiment.csv
+2026-04-21 04:39:56,320 - sentiment.analyzer - INFO - Loading FinBERT pipeline (this may take a moment)...
+2026-04-21 04:39:58,425 - sentiment.analyzer - INFO - FinBERT loaded.
+2026-04-21 04:39:58,426 - sentiment.analyzer - WARNING - No NEWS_API_KEY found. Using mock news data for demonstration.
+2026-04-21 04:40:10,489 - sentiment.analyzer - INFO - Computed daily sentiment for 365 days.
+2026-04-21 04:40:10,495 - sentiment.analyzer - INFO - Saved sentiment data to /Users/amitkumar/Downloads/ai-trading-platform/data/saved_data/MSFT_sentiment.csv
+2026-04-21 04:49:44,320 - sentiment.analyzer - INFO - Loading FinBERT pipeline (this may take a moment)...
+2026-04-21 04:49:46,669 - sentiment.analyzer - INFO - FinBERT loaded.
+2026-04-21 04:49:46,670 - sentiment.analyzer - WARNING - No NEWS_API_KEY found. Using mock news data for demonstration.
+2026-04-21 04:49:58,999 - sentiment.analyzer - INFO - Computed daily sentiment for 365 days.
+2026-04-21 04:49:59,002 - sentiment.analyzer - INFO - Saved sentiment data to /Users/amitkumar/Downloads/ai-trading-platform/data/saved_data/AAPL_sentiment.csv
+2026-04-21 04:50:09,036 - sentiment.analyzer - INFO - Loading FinBERT pipeline (this may take a moment)...
+2026-04-21 04:50:11,383 - sentiment.analyzer - INFO - FinBERT loaded.
+2026-04-21 04:50:11,419 - sentiment.analyzer - WARNING - No NEWS_API_KEY found. Using mock news data for demonstration.
+2026-04-21 04:50:23,500 - sentiment.analyzer - INFO - Computed daily sentiment for 365 days.
+2026-04-21 04:50:23,505 - sentiment.analyzer - INFO - Saved sentiment data to /Users/amitkumar/Downloads/ai-trading-platform/data/saved_data/TSLA_sentiment.csv
+2026-04-21 04:50:33,623 - sentiment.analyzer - INFO - Loading FinBERT pipeline (this may take a moment)...
+2026-04-21 04:50:36,710 - sentiment.analyzer - INFO - FinBERT loaded.
+2026-04-21 04:50:36,718 - sentiment.analyzer - WARNING - No NEWS_API_KEY found. Using mock news data for demonstration.
+2026-04-21 04:50:50,891 - sentiment.analyzer - INFO - Computed daily sentiment for 365 days.
+2026-04-21 04:50:50,899 - sentiment.analyzer - INFO - Saved sentiment data to /Users/amitkumar/Downloads/ai-trading-platform/data/saved_data/GOOGL_sentiment.csv
+2026-04-21 04:51:01,019 - sentiment.analyzer - INFO - Loading FinBERT pipeline (this may take a moment)...
+2026-04-21 04:51:03,403 - sentiment.analyzer - INFO - FinBERT loaded.
+2026-04-21 04:51:03,403 - sentiment.analyzer - WARNING - No NEWS_API_KEY found. Using mock news data for demonstration.
+2026-04-21 04:51:15,510 - sentiment.analyzer - INFO - Computed daily sentiment for 365 days.
+2026-04-21 04:51:15,516 - sentiment.analyzer - INFO - Saved sentiment data to /Users/amitkumar/Downloads/ai-trading-platform/data/saved_data/MSFT_sentiment.csv
+2026-04-21 04:51:25,552 - sentiment.analyzer - INFO - Loading FinBERT pipeline (this may take a moment)...
+2026-04-21 04:51:27,871 - sentiment.analyzer - INFO - FinBERT loaded.
+2026-04-21 04:51:27,875 - sentiment.analyzer - WARNING - No NEWS_API_KEY found. Using mock news data for demonstration.
+2026-04-21 04:51:41,037 - sentiment.analyzer - INFO - Computed daily sentiment for 365 days.
+2026-04-21 04:51:41,042 - sentiment.analyzer - INFO - Saved sentiment data to /Users/amitkumar/Downloads/ai-trading-platform/data/saved_data/NVDA_sentiment.csv
+2026-04-21 04:51:51,943 - sentiment.analyzer - INFO - Loading FinBERT pipeline (this may take a moment)...
+2026-04-21 04:51:54,204 - sentiment.analyzer - INFO - FinBERT loaded.
+2026-04-21 04:51:54,205 - sentiment.analyzer - WARNING - No NEWS_API_KEY found. Using mock news data for demonstration.
+2026-04-21 04:52:08,277 - sentiment.analyzer - INFO - Computed daily sentiment for 365 days.
+2026-04-21 04:52:08,282 - sentiment.analyzer - INFO - Saved sentiment data to /Users/amitkumar/Downloads/ai-trading-platform/data/saved_data/AMZN_sentiment.csv
