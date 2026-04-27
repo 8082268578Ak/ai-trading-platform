@@ -3,10 +3,10 @@ pandas==2.2.0
 numpy==1.26.4
 ta==0.11.0
 scikit-learn==1.4.0
-tensorflow==2.15.0
-xgboost==2.0.3
-transformers==4.37.2
-torch==2.2.0
+tensorflow
+xgboost
+transformers
+torch
 vaderSentiment==3.3.2
 textblob==0.17.1
 backtrader==1.9.78.123
